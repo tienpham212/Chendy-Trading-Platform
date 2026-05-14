@@ -1,0 +1,6 @@
+@ChendyMarket_HostAddress = http://Localhost:5085
+
+GET {{ChendyMarket_HostAddress}}/api/markets/BTCUSDT
+Accept: application/json
+
+###
